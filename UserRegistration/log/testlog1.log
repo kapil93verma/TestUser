@@ -1,0 +1,50 @@
+2017-11-03 16:34:38,552 [main] INFO testRegistrationForm - Browser Opened
+2017-11-03 16:34:40,099 [main] INFO testRegistrationForm - First name Entered
+2017-11-03 16:34:40,303 [main] INFO testRegistrationForm - Last name Entered
+2017-11-03 16:34:40,401 [main] INFO testRegistrationForm - Department / Office selected
+2017-11-03 16:34:40,715 [main] INFO testRegistrationForm - User name entered
+2017-11-03 16:34:40,823 [main] INFO testRegistrationForm - Password entered
+2017-11-03 16:34:40,941 [main] INFO testRegistrationForm - Confirm Password entered
+2017-11-03 16:34:41,231 [main] INFO testRegistrationForm - Email Address entered
+2017-11-03 16:34:41,353 [main] INFO testRegistrationForm - Phone number entered
+2017-11-03 16:34:42,249 [main] INFO testRegistrationForm - Submit button clicked
+2017-11-03 16:34:42,448 [main] INFO testRegistrationForm - Browser Opened
+2017-11-03 16:34:42,537 [main] INFO testRegistrationForm - Submit button clicked
+2017-11-03 16:34:42,605 [main] INFO testRegistrationForm - First name field missing text message
+2017-11-03 16:34:42,658 [main] INFO testRegistrationForm - Last name field missing text message
+2017-11-03 16:34:42,702 [main] INFO testRegistrationForm - username field missing text message
+2017-11-03 16:34:42,735 [main] INFO testRegistrationForm - Password field missing text message
+2017-11-03 16:34:42,766 [main] INFO testRegistrationForm - Confirm Password field missing text message
+2017-11-03 16:34:42,796 [main] INFO testRegistrationForm - Email address  field missing text message
+2017-11-03 16:34:43,255 [main] INFO testRegistrationForm - Browser Opened
+2017-11-03 16:34:43,842 [main] INFO testRegistrationForm - First name validation text message
+2017-11-03 16:34:43,884 [main] INFO testRegistrationForm - Last name validation text message
+2017-11-03 16:34:43,921 [main] INFO testRegistrationForm - user name validation text message
+2017-11-03 16:34:43,956 [main] INFO testRegistrationForm - Password validation text message
+2017-11-03 16:34:43,989 [main] INFO testRegistrationForm - Confirm password validation text message
+2017-11-03 16:34:44,021 [main] INFO testRegistrationForm - Email validation text message
+2017-11-03 16:35:34,952 [main] INFO testRegistrationForm - Browser Opened
+2017-11-03 16:35:36,467 [main] INFO testRegistrationForm - First name Entered
+2017-11-03 16:35:36,684 [main] INFO testRegistrationForm - Last name Entered
+2017-11-03 16:35:36,783 [main] INFO testRegistrationForm - Department / Office selected
+2017-11-03 16:35:37,092 [main] INFO testRegistrationForm - User name entered
+2017-11-03 16:35:37,205 [main] INFO testRegistrationForm - Password entered
+2017-11-03 16:35:37,336 [main] INFO testRegistrationForm - Confirm Password entered
+2017-11-03 16:35:37,633 [main] INFO testRegistrationForm - Email Address entered
+2017-11-03 16:35:37,751 [main] INFO testRegistrationForm - Phone number entered
+2017-11-03 16:35:38,685 [main] INFO testRegistrationForm - Submit button clicked
+2017-11-03 16:35:38,858 [main] INFO testRegistrationForm - Browser Opened
+2017-11-03 16:35:38,955 [main] INFO testRegistrationForm - Submit button clicked
+2017-11-03 16:35:39,028 [main] INFO testRegistrationForm - First name field missing text message
+2017-11-03 16:35:39,081 [main] INFO testRegistrationForm - Last name field missing text message
+2017-11-03 16:35:39,129 [main] INFO testRegistrationForm - username field missing text message
+2017-11-03 16:35:39,164 [main] INFO testRegistrationForm - Password field missing text message
+2017-11-03 16:35:39,196 [main] INFO testRegistrationForm - Confirm Password field missing text message
+2017-11-03 16:35:39,229 [main] INFO testRegistrationForm - Email address  field missing text message
+2017-11-03 16:35:39,710 [main] INFO testRegistrationForm - Browser Opened
+2017-11-03 16:35:40,377 [main] INFO testRegistrationForm - First name validation text message
+2017-11-03 16:35:40,414 [main] INFO testRegistrationForm - Last name validation text message
+2017-11-03 16:35:40,459 [main] INFO testRegistrationForm - user name validation text message
+2017-11-03 16:35:40,495 [main] INFO testRegistrationForm - Password validation text message
+2017-11-03 16:35:40,530 [main] INFO testRegistrationForm - Confirm password validation text message
+2017-11-03 16:35:40,562 [main] INFO testRegistrationForm - Email validation text message

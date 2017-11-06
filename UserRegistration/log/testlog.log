@@ -1,0 +1,50 @@
+2017-11-03 16:34:38,552 - testRegistrationForm -INFO - Browser Opened
+2017-11-03 16:34:40,099 - testRegistrationForm -INFO - First name Entered
+2017-11-03 16:34:40,303 - testRegistrationForm -INFO - Last name Entered
+2017-11-03 16:34:40,401 - testRegistrationForm -INFO - Department / Office selected
+2017-11-03 16:34:40,715 - testRegistrationForm -INFO - User name entered
+2017-11-03 16:34:40,823 - testRegistrationForm -INFO - Password entered
+2017-11-03 16:34:40,941 - testRegistrationForm -INFO - Confirm Password entered
+2017-11-03 16:34:41,231 - testRegistrationForm -INFO - Email Address entered
+2017-11-03 16:34:41,353 - testRegistrationForm -INFO - Phone number entered
+2017-11-03 16:34:42,249 - testRegistrationForm -INFO - Submit button clicked
+2017-11-03 16:34:42,448 - testRegistrationForm -INFO - Browser Opened
+2017-11-03 16:34:42,537 - testRegistrationForm -INFO - Submit button clicked
+2017-11-03 16:34:42,605 - testRegistrationForm -INFO - First name field missing text message
+2017-11-03 16:34:42,658 - testRegistrationForm -INFO - Last name field missing text message
+2017-11-03 16:34:42,702 - testRegistrationForm -INFO - username field missing text message
+2017-11-03 16:34:42,735 - testRegistrationForm -INFO - Password field missing text message
+2017-11-03 16:34:42,766 - testRegistrationForm -INFO - Confirm Password field missing text message
+2017-11-03 16:34:42,796 - testRegistrationForm -INFO - Email address  field missing text message
+2017-11-03 16:34:43,255 - testRegistrationForm -INFO - Browser Opened
+2017-11-03 16:34:43,842 - testRegistrationForm -INFO - First name validation text message
+2017-11-03 16:34:43,884 - testRegistrationForm -INFO - Last name validation text message
+2017-11-03 16:34:43,921 - testRegistrationForm -INFO - user name validation text message
+2017-11-03 16:34:43,956 - testRegistrationForm -INFO - Password validation text message
+2017-11-03 16:34:43,989 - testRegistrationForm -INFO - Confirm password validation text message
+2017-11-03 16:34:44,021 - testRegistrationForm -INFO - Email validation text message
+2017-11-03 16:35:34,952 - testRegistrationForm -INFO - Browser Opened
+2017-11-03 16:35:36,467 - testRegistrationForm -INFO - First name Entered
+2017-11-03 16:35:36,684 - testRegistrationForm -INFO - Last name Entered
+2017-11-03 16:35:36,783 - testRegistrationForm -INFO - Department / Office selected
+2017-11-03 16:35:37,092 - testRegistrationForm -INFO - User name entered
+2017-11-03 16:35:37,205 - testRegistrationForm -INFO - Password entered
+2017-11-03 16:35:37,336 - testRegistrationForm -INFO - Confirm Password entered
+2017-11-03 16:35:37,633 - testRegistrationForm -INFO - Email Address entered
+2017-11-03 16:35:37,751 - testRegistrationForm -INFO - Phone number entered
+2017-11-03 16:35:38,685 - testRegistrationForm -INFO - Submit button clicked
+2017-11-03 16:35:38,858 - testRegistrationForm -INFO - Browser Opened
+2017-11-03 16:35:38,955 - testRegistrationForm -INFO - Submit button clicked
+2017-11-03 16:35:39,028 - testRegistrationForm -INFO - First name field missing text message
+2017-11-03 16:35:39,081 - testRegistrationForm -INFO - Last name field missing text message
+2017-11-03 16:35:39,129 - testRegistrationForm -INFO - username field missing text message
+2017-11-03 16:35:39,164 - testRegistrationForm -INFO - Password field missing text message
+2017-11-03 16:35:39,196 - testRegistrationForm -INFO - Confirm Password field missing text message
+2017-11-03 16:35:39,229 - testRegistrationForm -INFO - Email address  field missing text message
+2017-11-03 16:35:39,710 - testRegistrationForm -INFO - Browser Opened
+2017-11-03 16:35:40,377 - testRegistrationForm -INFO - First name validation text message
+2017-11-03 16:35:40,414 - testRegistrationForm -INFO - Last name validation text message
+2017-11-03 16:35:40,459 - testRegistrationForm -INFO - user name validation text message
+2017-11-03 16:35:40,495 - testRegistrationForm -INFO - Password validation text message
+2017-11-03 16:35:40,530 - testRegistrationForm -INFO - Confirm password validation text message
+2017-11-03 16:35:40,562 - testRegistrationForm -INFO - Email validation text message
