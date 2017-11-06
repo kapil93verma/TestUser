@@ -79,6 +79,7 @@ public class CreateUser {
 		driver.findElement(By.xpath(".//*[@id='contact_form']/fieldset/div[5]/div/div/input")).sendKeys("test12");
 		driver.findElement(By.xpath(".//*[@id='contact_form']/fieldset/div[6]/div/div/input")).sendKeys("test12");
 		driver.findElement(By.xpath(".//*[@id='contact_form']/fieldset/div[7]/div/div/input")).sendKeys(genData.generateInvalidEmail(10));
+		driver.findElement(By.xpath(".//*[@id='contact_form']/fieldset/div[8]/div/div/input")).sendKeys("abcdjl");
 		Assert.assertEquals("Mismatch in the text", "This value is not valid", driver.findElement(By.xpath(".//*[@id='contact_form']/fieldset/div[1]/div/small[1]")).getText());
 		logger.info("First name validation text message");
 		Assert.assertEquals("Mismatch in the text", "This value is not valid", driver.findElement(By.xpath(".//*[@id='contact_form']/fieldset/div[2]/div/small[1]")).getText());
@@ -91,6 +92,8 @@ public class CreateUser {
 		logger.info("Confirm password validation text message");
 		Assert.assertEquals("Mismatch in the text", "This value is not valid", driver.findElement(By.xpath(".//*[@id='contact_form']/fieldset/div[7]/div/small[2]")).getText());
 		logger.info("Email validation text message");
+		Assert.assertEquals("Mismatch in the text", "This value is not valid", driver.findElement(By.xpath(".//*[@id='contact_form']/fieldset/div[8]/div/small")).getText());
+		logger.info("Contact Number validation text message");
 	
 		driver.close();
 		}
